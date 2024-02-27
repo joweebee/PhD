@@ -1,4 +1,4 @@
-%% This script performs calculations on XCT data for export into Prism.
+%% This script reformats .xlsx files of XCT data for export into Prism.
 clear
 %% Import compiled morpho results
 data = readtable('XCT-morpho-stats.xlsx');
