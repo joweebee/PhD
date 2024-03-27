@@ -1,5 +1,6 @@
 # Appendices
-## 7.4.3.	 Methodology: Surface degradation studies of silane-modified PCL films
+## Appendix 4
+###7.4.3.	 Methodology: Surface degradation studies of silane-modified PCL films
 
 Directly following the silanisation process detailed in section 7.4.2, 0h timepoint baseline water contact angle readings were taken using the following process. Remaining cover slips were transferred to 6-well plates and submerged in basal medium. These were incubated at 37 °C supplemented with 5 % CO2 for up to 7 days.
 
