@@ -6,6 +6,7 @@ This thesis follows the characterisation of the cellular response to a range of 
 The chapters contain:
 - Chapter 1: Introduction
 - Chapter 2: Literature Review
-- Chapter 3: Materials Production and Initial Screening
-- [Chapter 4: Improving Mechanical Stability - Cell Response to Crosslinked Scaffolds](https://github.com/joweebee/PhD/tree/main/Chapter_4)
-- [Chapter 5: Determining the Efficacy of a Novel Ex-Vivo Model for Bone Healing](https://github.com/joweebee/PhD/tree/main/Chapter_5)
+- Chapter 3: Scaffold Production and Initial Screening
+- [Chapter 4: Crosslinking with Genipin to Improve Mechanical Stability](https://github.com/joweebee/PhD/tree/main/Chapter_4)
+- [Chapter 5: The Development of an Ex-Vivo Bone Wrap Model](https://github.com/joweebee/PhD/tree/main/Chapter_5)
+- -[Appendices](https://github.com/joweebee/PhD/tree/main/Appendices)
